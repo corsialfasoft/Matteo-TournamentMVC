@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatteoTournementMvc", "MatteoTournementMvc\MatteoTournementMvc.csproj", "{0501529F-B117-454B-86F2-FDCCCF505EB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatteoTournementMvc.Tests", "MatteoTournementMvc.Tests\MatteoTournementMvc.Tests.csproj", "{91738E59-C2E5-4FBA-AA49-7FE35E36DC5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0501529F-B117-454B-86F2-FDCCCF505EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0501529F-B117-454B-86F2-FDCCCF505EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0501529F-B117-454B-86F2-FDCCCF505EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0501529F-B117-454B-86F2-FDCCCF505EB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91738E59-C2E5-4FBA-AA49-7FE35E36DC5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91738E59-C2E5-4FBA-AA49-7FE35E36DC5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91738E59-C2E5-4FBA-AA49-7FE35E36DC5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91738E59-C2E5-4FBA-AA49-7FE35E36DC5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A179F946-2C95-45C9-99C4-34594F7D52FA}
+	EndGlobalSection
+EndGlobal
